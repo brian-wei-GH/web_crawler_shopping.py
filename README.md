@@ -1,4 +1,4 @@
-# web_crawler_shopping.py
+# web_scraping_shopping.py
 
 the sample website is Books.com. 
 note {
