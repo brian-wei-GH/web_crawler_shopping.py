@@ -14,7 +14,7 @@ the users can use this system to find the pages they want to read, the output wi
 environment { 
     Python: 3.12.4, 
     pycharm: 2024.1.3 pro, 
-    requests model: 2.32.3
+    requests model: 2.32.3,
     beautifulsoup4: 4.12.3
 }
 
